@@ -6,4 +6,7 @@
 1. Auto Extract emails on arrival.
 2. Custom Settings and filter to choose mailbox.
 3. Extract emails based on date , subject , from etc.
+
+ ## Tool Snapshot ## 
+![image](https://github.com/user-attachments/assets/01539a3b-7856-4fd0-9a5c-209559548884)
  
